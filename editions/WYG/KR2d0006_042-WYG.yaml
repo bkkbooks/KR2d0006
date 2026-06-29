@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2d0006/WYG/v1/juan/42
+seq: 42
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2d0006_WYG_042-1a, image: WYG0373/WYG0373-0366c.png}
+body:
+  text: 通志卷三十七宋右廸功郎鄭樵漁仲撰七音略第二通志卷三十七
+  hash: sha256:d92643cab1a42fd4ab8aed0f4b25202319e1ed1235238c4a7e9710c603d30aef
+metadata:
+  title: 通志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:28:17.003776'
+  juan_title: 卷三十七
+  source:
+    repository: kanripo
+    path: KR2d0006/KR2d0006_042.txt
+hash: sha256:7c586076ec314e90b7778e31a4703fe3a610df0dafb1d3a67025e8b532555f0a

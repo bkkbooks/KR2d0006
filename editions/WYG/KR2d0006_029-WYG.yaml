@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2d0006/WYG/v1/juan/29
+seq: 29
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 通志卷二十三
+  hash: sha256:0a357017547f27139e7a6b718538f5185e627e0441bf329deb8ca350195e3b28
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2d0006_WYG_029-1a, image: WYG0373/WYG0373-0147a.png}
+metadata:
+  title: 通志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:28:17.003776'
+  juan_title: 卷二十三
+  source:
+    repository: kanripo
+    path: KR2d0006/KR2d0006_029.txt
+hash: sha256:4e62737a2f109f393e943774c7719b51116a76068d30d03c9cb852d52a593e88
