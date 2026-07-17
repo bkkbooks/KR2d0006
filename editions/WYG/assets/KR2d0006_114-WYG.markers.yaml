@@ -42,6 +42,7 @@ markers:
   - {type: line-break, offset: 22, content: '', id: KR2d0006_WYG_114-1a06}
   - {type: indent, offset: 22, content: 　　, id: KR2d0006_WYG_114-bkkind14}
   - {type: punctuation, offset: 24, content: (, id: KR2d0006_WYG_114-bkkpn1}
+  - {type: voice, offset: 24, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 26, content: /, id: KR2d0006_WYG_114-bkkpn2}
   - {type: punctuation, offset: 27, content: ), id: KR2d0006_WYG_114-bkkpn3}
   - {type: indent, offset: 29, content: 　, id: KR2d0006_WYG_114-bkkind15}
@@ -78,10 +79,12 @@ markers:
   - {type: line-break, offset: 65, content: '', id: KR2d0006_WYG_114-1b01}
   - {type: indent, offset: 65, content: 　　, id: KR2d0006_WYG_114-bkkind31}
   - {type: punctuation, offset: 65, content: (, id: KR2d0006_WYG_114-bkkpn4}
+  - {type: voice, offset: 65, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 67, content: /, id: KR2d0006_WYG_114-bkkpn5}
   - {type: punctuation, offset: 68, content: ), id: KR2d0006_WYG_114-bkkpn6}
   - {type: indent, offset: 72, content: 　, id: KR2d0006_WYG_114-bkkind32}
   - {type: punctuation, offset: 75, content: (, id: KR2d0006_WYG_114-bkkpn7}
+  - {type: voice, offset: 75, length: 5, name: note, id: n3}
   - {type: punctuation, offset: 78, content: /, id: KR2d0006_WYG_114-bkkpn8}
   - {type: punctuation, offset: 80, content: ), id: KR2d0006_WYG_114-bkkpn9}
   - {type: indent, offset: 82, content: 　, id: KR2d0006_WYG_114-bkkind33}
@@ -2071,6 +2074,7 @@ markers:
       ', id: KR2d0006_WYG_114-bkkkrnewl505}
   - {type: line-break, offset: 9294, content: '', id: KR2d0006_WYG_114-29a02}
   - {type: punctuation, offset: 9311, content: (, id: KR2d0006_WYG_114-bkkpn10}
+  - {type: voice, offset: 9311, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 9313, content: /, id: KR2d0006_WYG_114-bkkpn11}
   - {type: punctuation, offset: 9315, content: ), id: KR2d0006_WYG_114-bkkpn12}
   - {type: 'kr:newline', offset: 9317, content: '
@@ -7905,4 +7909,4 @@ markers:
 
       ', id: KR2d0006_WYG_114-bkkkrnewl1961}
   back: []
-hash: sha256:81447a0698b9f62bff0e1592997538bf031fc3e7b5c2d4495d859c7f1e25ee04
+hash: sha256:eef52eb5c952804f2db7cfc3388263d7460853eb67b1cefedb0f00a17d2ca3ba

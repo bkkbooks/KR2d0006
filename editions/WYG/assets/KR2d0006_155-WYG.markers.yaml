@@ -42,12 +42,15 @@ markers:
   - {type: line-break, offset: 26, content: '', id: KR2d0006_WYG_155-1a06}
   - {type: indent, offset: 26, content: 　　, id: KR2d0006_WYG_155-bkkind14}
   - {type: punctuation, offset: 29, content: (, id: KR2d0006_WYG_155-bkkpn1}
+  - {type: voice, offset: 29, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 31, content: /, id: KR2d0006_WYG_155-bkkpn2}
   - {type: punctuation, offset: 32, content: ), id: KR2d0006_WYG_155-bkkpn3}
   - {type: punctuation, offset: 35, content: (, id: KR2d0006_WYG_155-bkkpn4}
+  - {type: voice, offset: 35, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 38, content: /, id: KR2d0006_WYG_155-bkkpn5}
   - {type: punctuation, offset: 40, content: ), id: KR2d0006_WYG_155-bkkpn6}
   - {type: punctuation, offset: 42, content: (, id: KR2d0006_WYG_155-bkkpn7}
+  - {type: voice, offset: 42, length: 9, name: note, id: n3}
   - {type: punctuation, offset: 48, content: /, id: KR2d0006_WYG_155-bkkpn8}
   - {type: punctuation, offset: 51, content: ), id: KR2d0006_WYG_155-bkkpn9}
   - {type: 'kr:newline', offset: 51, content: '
@@ -56,12 +59,15 @@ markers:
   - {type: line-break, offset: 51, content: '', id: KR2d0006_WYG_155-1a07}
   - {type: indent, offset: 51, content: 　　, id: KR2d0006_WYG_155-bkkind15}
   - {type: punctuation, offset: 53, content: (, id: KR2d0006_WYG_155-bkkpn10}
+  - {type: voice, offset: 53, length: 8, name: note, id: n4}
   - {type: punctuation, offset: 58, content: /, id: KR2d0006_WYG_155-bkkpn11}
   - {type: punctuation, offset: 61, content: ), id: KR2d0006_WYG_155-bkkpn12}
   - {type: punctuation, offset: 63, content: (, id: KR2d0006_WYG_155-bkkpn13}
+  - {type: voice, offset: 63, length: 9, name: note, id: n5}
   - {type: punctuation, offset: 69, content: /, id: KR2d0006_WYG_155-bkkpn14}
   - {type: punctuation, offset: 72, content: ), id: KR2d0006_WYG_155-bkkpn15}
   - {type: punctuation, offset: 75, content: (, id: KR2d0006_WYG_155-bkkpn16}
+  - {type: voice, offset: 75, length: 3, name: note, id: n6}
   - {type: punctuation, offset: 76, content: /, id: KR2d0006_WYG_155-bkkpn17}
   - {type: punctuation, offset: 77, content: ), id: KR2d0006_WYG_155-bkkpn18}
   - {type: 'kr:newline', offset: 77, content: '
@@ -73,12 +79,15 @@ markers:
   - {type: punctuation, offset: 78, content: /, id: KR2d0006_WYG_155-bkkpn20}
   - {type: punctuation, offset: 78, content: ), id: KR2d0006_WYG_155-bkkpn21}
   - {type: punctuation, offset: 81, content: (, id: KR2d0006_WYG_155-bkkpn22}
+  - {type: voice, offset: 81, length: 5, name: note, id: n7}
   - {type: punctuation, offset: 84, content: /, id: KR2d0006_WYG_155-bkkpn23}
   - {type: punctuation, offset: 86, content: ), id: KR2d0006_WYG_155-bkkpn24}
   - {type: punctuation, offset: 89, content: (, id: KR2d0006_WYG_155-bkkpn25}
+  - {type: voice, offset: 89, length: 2, name: note, id: n8}
   - {type: punctuation, offset: 90, content: /, id: KR2d0006_WYG_155-bkkpn26}
   - {type: punctuation, offset: 91, content: ), id: KR2d0006_WYG_155-bkkpn27}
   - {type: punctuation, offset: 93, content: (, id: KR2d0006_WYG_155-bkkpn28}
+  - {type: voice, offset: 93, length: 6, name: note, id: n9}
   - {type: punctuation, offset: 97, content: /, id: KR2d0006_WYG_155-bkkpn29}
   - {type: punctuation, offset: 99, content: ), id: KR2d0006_WYG_155-bkkpn30}
   - {type: 'kr:newline', offset: 101, content: '
@@ -91,6 +100,7 @@ markers:
   - {type: line-break, offset: 101, content: '', id: KR2d0006_WYG_155-1b01}
   - {type: indent, offset: 101, content: 　　　, id: KR2d0006_WYG_155-bkkind17}
   - {type: punctuation, offset: 104, content: (, id: KR2d0006_WYG_155-bkkpn31}
+  - {type: voice, offset: 104, length: 3, name: note, id: n10}
   - {type: punctuation, offset: 106, content: /, id: KR2d0006_WYG_155-bkkpn32}
   - {type: punctuation, offset: 107, content: ), id: KR2d0006_WYG_155-bkkpn33}
   - {type: 'kr:newline', offset: 107, content: '
@@ -4891,4 +4901,4 @@ markers:
 
       ', id: KR2d0006_WYG_155-bkkkrnewl1205}
   back: []
-hash: sha256:092935c84de4029b8557160b635ee1c4987046ede4d48e5067221da0412e4e3f
+hash: sha256:53717bea22db2fd2ff9eeb00616d6b22422150bfa1a400700a6e859c644f07d2

@@ -774,6 +774,7 @@ markers:
       ', id: KR2d0006_WYG_010-bkkkrnewl187}
   - {type: line-break, offset: 3417, content: '', id: KR2d0006_WYG_010-11a08}
   - {type: punctuation, offset: 3437, content: (, id: KR2d0006_WYG_010-bkkpn1}
+  - {type: voice, offset: 3437, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 3438, content: /, id: KR2d0006_WYG_010-bkkpn2}
   - {type: punctuation, offset: 3438, content: ), id: KR2d0006_WYG_010-bkkpn3}
   - {type: 'kr:newline', offset: 3438, content: '
@@ -4664,6 +4665,7 @@ markers:
       ', id: KR2d0006_WYG_010-bkkkrnewl1158}
   - {type: line-break, offset: 20907, content: '', id: KR2d0006_WYG_010-65a07}
   - {type: punctuation, offset: 20919, content: (, id: KR2d0006_WYG_010-bkkpn4}
+  - {type: voice, offset: 20919, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 20923, content: /, id: KR2d0006_WYG_010-bkkpn5}
   - {type: punctuation, offset: 20926, content: ), id: KR2d0006_WYG_010-bkkpn6}
   - {type: 'kr:newline', offset: 20931, content: '
@@ -4975,6 +4977,7 @@ markers:
       ', id: KR2d0006_WYG_010-bkkkrnewl1235}
   - {type: line-break, offset: 22322, content: '', id: KR2d0006_WYG_010-69b03}
   - {type: punctuation, offset: 22323, content: (, id: KR2d0006_WYG_010-bkkpn7}
+  - {type: voice, offset: 22323, length: 29, name: note, id: n3}
   - {type: punctuation, offset: 22338, content: /, id: KR2d0006_WYG_010-bkkpn8}
   - {type: punctuation, offset: 22352, content: ), id: KR2d0006_WYG_010-bkkpn9}
   - {type: 'kr:newline', offset: 22357, content: '
@@ -4986,6 +4989,7 @@ markers:
       ', id: KR2d0006_WYG_010-bkkkrnewl1237}
   - {type: line-break, offset: 22378, content: '', id: KR2d0006_WYG_010-69b05}
   - {type: punctuation, offset: 22379, content: (, id: KR2d0006_WYG_010-bkkpn10}
+  - {type: voice, offset: 22379, length: 12, name: note, id: n4}
   - {type: punctuation, offset: 22385, content: /, id: KR2d0006_WYG_010-bkkpn11}
   - {type: punctuation, offset: 22391, content: ), id: KR2d0006_WYG_010-bkkpn12}
   - {type: 'kr:newline', offset: 22405, content: '
@@ -7820,4 +7824,4 @@ markers:
 
       ', id: KR2d0006_WYG_010-bkkkrnewl1943}
   back: []
-hash: sha256:38985dbc69258eb319cdfe75b387b4918487dd05e59153c4b87f48469a486b96
+hash: sha256:d45ae25955b94b7808d98aaabd2110afdf02157f71e6fbec8f303f81d39d4185
